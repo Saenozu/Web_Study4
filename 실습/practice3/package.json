@@ -1,0 +1,14 @@
+{
+  "name": "practice3",
+  "version": "1.0.0",
+  "description": "practice3_nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "21박이슬",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
